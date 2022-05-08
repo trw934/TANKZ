@@ -1,0 +1,33 @@
+﻿  ArenaManager.cpp
+  AudioManager.cpp
+  ball.cpp
+  BallManager.cpp
+  BulletManager.cpp
+  field.cpp
+  FieldManager.cpp
+  game.cpp
+  GameObject.cpp
+  InputManager.cpp
+  keyProcess.cpp
+  object.cpp
+  openGLFramework.cpp
+C:\Dev\Cohort18-Private\PC Game\TANKZ\openGLFramework.cpp(78,15): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+C:\Dev\Cohort18-Private\PC Game\TANKZ\openGLFramework.cpp(369,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  openGLStuff.cpp
+  PlayerManager.cpp
+  random.cpp
+  ShapeDraw.cpp
+  SoundSystem.cpp
+  Sprite.cpp
+  SpriteDemoManager.cpp
+  Generating Code...
+  Compiling...
+  SpriteManager.cpp
+  stateManager.cpp
+  Generating Code...
+soil.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+soil.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Dev\Cohort18-Private\PC Game\TANKZ\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Dev\Cohort18-Private\PC Game\TANKZ\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'soil.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  OpenGL Framework.vcxproj -> C:\Dev\Cohort18-Private\PC Game\TANKZ\Debug\OpenGL Framework.exe
